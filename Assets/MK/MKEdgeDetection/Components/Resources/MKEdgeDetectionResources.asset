@@ -15,4 +15,4 @@ MonoBehaviour:
   _shaderMain: {fileID: 4800000, guid: f751bd9ddf5a13a45abbf01f030ee1e1, type: 3}
   _shaderURPCopy: {fileID: 4800000, guid: 4ade192a56c3f7542b4d6af021dab2e3, type: 3}
   _shaderSketch: {fileID: 4800000, guid: 4647c4a6dc74443429bc6ddffac8a330, type: 3}
-  _pixelPerfection: 0
+  _pixelPerfection: 1
